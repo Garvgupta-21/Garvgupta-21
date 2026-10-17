@@ -17,7 +17,7 @@ I enjoy bridging the gap between clean frontend UIs and heavy-lifting backend ar
 
 **Frontend**
 - React.js
-- 
+  
 **Backend**
 - Node.js
 - Express.js
