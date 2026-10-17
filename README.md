@@ -1,7 +1,9 @@
 Hi, I'm Garv Gupta 👋
 
 🎓 B.Tech CSE (AI & ML) @ VIT Bhopal University
+
 💻 Software Development Engineer
+
 🚀 Building scalable full-stack applications and high-performance backend systems.
 
 I enjoy bridging the gap between clean frontend UIs and heavy-lifting backend architecture—from JWT authentication and Redis caching to asynchronous task processing with BullMQ.
